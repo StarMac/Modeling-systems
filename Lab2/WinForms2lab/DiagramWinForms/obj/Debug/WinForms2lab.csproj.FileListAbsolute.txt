@@ -1,0 +1,10 @@
+C:\Users\Maxim\Desktop\diagramlab-main\WinForms2lab\DiagramWinForms\bin\Debug\DiagramWinForms.exe.config
+C:\Users\Maxim\Desktop\diagramlab-main\WinForms2lab\DiagramWinForms\bin\Debug\DiagramWinForms.exe
+C:\Users\Maxim\Desktop\diagramlab-main\WinForms2lab\DiagramWinForms\bin\Debug\DiagramWinForms.pdb
+C:\Users\Maxim\Desktop\diagramlab-main\WinForms2lab\DiagramWinForms\obj\Debug\WinForms2lab.csproj.AssemblyReference.cache
+C:\Users\Maxim\Desktop\diagramlab-main\WinForms2lab\DiagramWinForms\obj\Debug\DiagramWinForms.Form1.resources
+C:\Users\Maxim\Desktop\diagramlab-main\WinForms2lab\DiagramWinForms\obj\Debug\DiagramWinForms.Properties.Resources.resources
+C:\Users\Maxim\Desktop\diagramlab-main\WinForms2lab\DiagramWinForms\obj\Debug\WinForms2lab.csproj.GenerateResource.cache
+C:\Users\Maxim\Desktop\diagramlab-main\WinForms2lab\DiagramWinForms\obj\Debug\WinForms2lab.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\diagramlab-main\WinForms2lab\DiagramWinForms\obj\Debug\DiagramWinForms.exe
+C:\Users\Maxim\Desktop\diagramlab-main\WinForms2lab\DiagramWinForms\obj\Debug\DiagramWinForms.pdb
